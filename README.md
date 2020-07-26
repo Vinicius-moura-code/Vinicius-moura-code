@@ -15,19 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <a>
-  <img align="left" alt="LinkdeIN" width="22px" src="https://i.gifer.com/N2j1.gif" />
+  <img align="left" alt="helloWorld" width="100%" src="https://suit.readthedocs.io/en/latest/_images/hello-world.gif" />
 </a>
 
--		 H     W
--    He    Wo
--   Hel   Wor
--  Hell  Worl
-- Hello World
-- ello  orld
-- llo   rld
-- lo    ld
-- o     d
  
  
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
@@ -45,6 +38,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="mailto:arycleniobarros@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>

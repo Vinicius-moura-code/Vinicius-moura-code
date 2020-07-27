@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ------------
 
  Hi, I'm Vinicius Moura, but you can call me **Vini**. 
+ 
 
-Como dev tenho cerca de 11 meses desde que decidi ingressar na Ti, vindo da área de eventos e gestão cultural. Imerso nas tecnologias atuais no mercado participando de Bootcamps e fazendo cursos, ainda estou no inicio da minha jornada e busco uma oportunidade de ingressar no mercado.
+As a developer, I have been around 11 months since we decided to join Ti, coming from the area of events and cultural management. Immersed in the current technologies of the market participating in Bootcamps and taking courses, I am still at the beginning of my journey and I am looking for an opportunity to enter the market.
 
+*- 🌱 I’m currently learning Java, Spring, TDD & BDD.
 
 
 
@@ -64,6 +66,7 @@ Como dev tenho cerca de 11 meses desde que decidi ingressar na Ti, vindo da áre
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 ----
 
 ![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true)

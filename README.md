@@ -14,54 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a>
-  <img align="left" alt="helloWorld" width="100%" src="https://www.instagram.com/p/BEtr52ByhB-/?taken-by=madewithcode" />
-</a>
-
 -->
 
 
 
+------------
+
+ Hi, I'm Vinicius Moura, but you can call me **Vini**. 
+
+Como dev tenho cerca de 11 meses desde que decidi ingressar na Ti, vindo da área de eventos e gestão cultural. Imerso nas tecnologias atuais no mercado participando de Bootcamps e fazendo cursos, ainda estou no inicio da minha jornada e busco uma oportunidade de ingressar no mercado.
+
+
+
+
 
 ------------
-<a>
-  <img align="left" alt="helloWorld" width="100%" src="https://www.instagram.com/p/BEtr52ByhB-/?taken-by=madewithcode" />
-</a>
 
- 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+
+<a target="_blank" href="https://www.linkedin.com/in/mr-vinicius/" />
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5551993840560">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+<a target="_blank" href="https://www.instagram.com/vinicius_moura.3ve/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://dev.to/aryclenio/">
+<a target="_blank" href="https://www.imperium-code.com.br/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="mailto:viniciusrebelo487@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<a target="_blank" href="https://fb.com/aryxb">
+<a target="_blank" href="https://www.facebook.com/Vinicius.mouraTec.3ven70s">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
-
-------------
-Hi, I'm Vinicius Moura, but you can call me **Vini**. 
-
-I'm a Front-end Typescript Developer from Brazil 💚, **22 years old** 👶🏻 and **8 years of coding** 🧐. 
-
-**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
-
-* ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
 ----
 
 **Languages and Tools:**  

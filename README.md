@@ -39,7 +39,7 @@ As a developer, I have been around 11 months since we decided to join Ti, coming
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5551993840560">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/vinicius_moura.3ve/">
+<a target="_blank" href="https://www.instagram.com/__mr.vini/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://www.imperium-code.com.br/">
@@ -48,7 +48,7 @@ As a developer, I have been around 11 months since we decided to join Ti, coming
 <a target="_blank" href="mailto:viniciusrebelo487@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/Vinicius.mouraTec.3ven70s">
+<a target="_blank" href="https://www.facebook.com/Mr.Vini.Mr/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 

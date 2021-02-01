@@ -77,8 +77,8 @@ As a developer, I have been around 13 months since we decided to join Ti, coming
 
 ### Analytics 👨‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-moura-code&layout=compact&theme=radical)](https://github.com/Vinicius-moura-code/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-moura-code&layout=compact&theme=radical)]
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-moura-code&hide_border=true&theme=radical)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-moura-code&hide_border=false&theme=radical)
 
 ![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)

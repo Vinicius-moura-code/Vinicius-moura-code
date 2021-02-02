@@ -35,29 +35,6 @@ As a developer, I have been around 13 months since we decided to join Ti, coming
 ------------
 
 
-<a target="_blank" href="https://www.linkedin.com/in/mr-vinicius/" />
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5551993840560">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/__mr.vini/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://www.imperium-code.com.br/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:viniciusrebelo487@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/Mr.Vini.Mr/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-
-------------
-
-
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -77,4 +54,24 @@ As a developer, I have been around 13 months since we decided to join Ti, coming
 
 ### Analytics 👨‍💻
 -----------[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-moura-code&layout=compact&theme=radical&langs_count=8)](https://github.com/Vinicius-moura-code/github-readme-stats) 💻 ![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)
+</br>
+</br>
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vinicius-moura-code&repo=Vinicius-moura-code&countColorcountColor)
+<a target="_blank" href="https://www.linkedin.com/in/mr-vinicius/" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5551993840560">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/__mr.vini/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://www.imperium-code.com.br/">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+<a target="_blank" href="mailto:viniciusrebelo487@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/Mr.Vini.Mr/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>

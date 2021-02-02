@@ -73,12 +73,9 @@ As a developer, I have been around 13 months since we decided to join Ti, coming
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 -----------
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinicius-moura-code&row=1&column=6&theme=darkhub" alt="Vinicius-moura-code" /></a> </p>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vinicius-moura-code&repo=Vinicius-moura-code&countColorcountColor)
 
 ### Analytics 👨‍💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-moura-code&layout=compact&theme=radical&langs_count=8)](https://github.com/Vinicius-moura-code/github-readme-stats)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-moura-code&hide_border=false&theme=radical)
-
-![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-moura-code&layout=compact&theme=radical&langs_count=8)](https://github.com/Vinicius-moura-code/github-readme-stats) 💻 ![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)

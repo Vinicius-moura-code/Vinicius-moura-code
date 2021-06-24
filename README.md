@@ -71,8 +71,12 @@ As a developer, I have been around 19 months since we decided to join Ti, coming
  
 **Status**
  
- ![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)
-  </p>
+ <p align="center">
+  
+![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)
+ </p>
+ 
+</p>
 
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vinicius-moura-code&repo=Vinicius-moura-code&countColorcountColor)

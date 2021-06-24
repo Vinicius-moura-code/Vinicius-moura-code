@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 As a developer, I have been around 19 months since we decided to join Ti, coming from the area of events and cultural management. Immersed in the current technologies of the market participating in Bootcamps and taking courses, I currently work at META company as a .NET developer, and I am joining the Oracle world.
 
-*- 🌱 I’m currently learning Java, Oracle Database, TDD & BDD.
+*- 🌱 I’m currently learning Java, Oracle Database, ASP.NET Core MVC.
 
 
 

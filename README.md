@@ -25,9 +25,9 @@ Here are some ideas to get you started:
  Hi, I'm Vinicius Moura, but you can call me **Vini**. 
  
 
-As a developer, I have been around 13 months since we decided to join Ti, coming from the area of events and cultural management. Immersed in the current technologies of the market participating in Bootcamps and taking courses, I am still at the beginning of my journey and I am looking for an opportunity to enter the market.
+As a developer, I have been around 19 months since we decided to join Ti, coming from the area of events and cultural management. Immersed in the current technologies of the market participating in Bootcamps and taking courses, I currently work at META company as a .NET developer, and I am joining the Oracle world.
 
-*- 🌱 I’m currently learning Java, Spring, TDD & BDD.
+*- 🌱 I’m currently learning Java, Oracle Database, TDD & BDD.
 
 
 

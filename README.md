@@ -100,4 +100,4 @@ As a developer, I have been around 19 months since we decided to join Ti, coming
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-  ![Snake animation](https://github.com/Vinicius-moura-code/Vinicius-moura-code/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)

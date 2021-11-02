@@ -79,23 +79,22 @@ As a developer, I have been around 2 years since we decided to join Ti, coming f
 </p>
 
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vinicius-moura-code&repo=Vinicius-moura-code&countColorcountColor)
 
 <a target="_blank" href="https://www.linkedin.com/in/mr-vinicius/" />
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5551993840560">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/__mr.vini/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://www.imperium-code.com.br/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
 </a>
 <a target="_blank" href="mailto:viniciusrebelo487@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.facebook.com/Mr.Vini.Mr/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+
+ 
+ <p align="center">Count Views </p>
+
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Vinicius-moura-code/count.svg" /></p>
+
+<a align="center" target="_blank" href="https://mr-vinicius.netlify.app/">
+  <img align="center" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>

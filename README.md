@@ -1,6 +1,6 @@
 ### ✨ Mr. Code✨
 
-**Studying Analysis and Systems Development & IT | Dev Js Jr. | Linux User |**
+**Studying Analysis and Systems Development & IT | Dev .NET - React
 
 <!--
 **Vinicius-moura-code/Vinicius-moura-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

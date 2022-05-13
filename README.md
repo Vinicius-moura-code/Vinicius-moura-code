@@ -1,6 +1,6 @@
 ### ✨ Mr. Code✨
 
-**Studying Analysis and Systems Development & IT | Dev .NET - React
+*Studying Analysis and Systems Development & IT | Dev .NET - React*
 
 <!--
 **Vinicius-moura-code/Vinicius-moura-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  Hi, I'm Vinicius Moura, but you can call me **Vini**. 
  
 
-As a developer, I have been around 2 years since we decided to join Ti, coming from the area of events and cultural management. Immersed in the current technologies of the market participating in Bootcamps and taking courses, I currently work at META company as a .NET developer, and I am joining the Oracle world.
+As a developer, I have been around 4 years since we decided to join Ti, coming from the area of events and cultural management. Immersed in the current technologies of the market participating in Bootcamps and taking courses, I currently work at META company as a .NET developer, and I am joining the Oracle world.
 
 *- 🌱 I’m currently learning Java, Oracle Database, ASP.NET Core MVC.
 
@@ -59,24 +59,12 @@ As a developer, I have been around 2 years since we decided to join Ti, coming f
 ### Analytics 👨‍💻
 <p align="center">
  
-**Stack's**
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-moura-code&layout=compact&theme=radical&langs_count=10)](https://github.com/Vinicius-moura-code/github-readme-stats)
  </p>
  
 </br>
 
-
-<p align="center">
- 
-**Status**
- 
- <p align="center">
-  
-![Vinicius-moura-code GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-moura-code&show_icons=true&theme=radical)
- </p>
- 
-</p>
 
 
 
@@ -95,6 +83,3 @@ As a developer, I have been around 2 years since we decided to join Ti, coming f
 
  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Vinicius-moura-code/count.svg" /></p>
 
-<a align="center" target="_blank" href="https://mr-vinicius.netlify.app/">
-  <img align="center" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
